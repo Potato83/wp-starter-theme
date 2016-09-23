@@ -4,7 +4,7 @@
 
 Change all instances of "starter" in functions.php to desired theme name.
 
-Similarly, edit style.css and package.json.
+Similarly, edit style.css and package.json. There is also a "starter" tag in footer.php.
 
 Be sure to install the jQuery updater plugin so that jQuery works.
 
