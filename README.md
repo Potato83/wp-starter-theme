@@ -6,6 +6,8 @@ Change all instances of "starter" in functions.php to desired theme name.
 
 Similarly, edit style.css and package.json. There is also a "starter" tag in footer.php.
 
+You may also wish to edit this readme file to be about your new theme rather than the starter.
+
 Be sure to install the jQuery updater plugin so that jQuery works.
 
 Also remember: grunt build to build the assets folder.
